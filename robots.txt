@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nithin-portfolio.github.io/al-folio/sitemap.xml
+Sitemap: https://nithin-portfolio.github.io/dev-blog/sitemap.xml
