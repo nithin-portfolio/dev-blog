@@ -12,11 +12,4 @@ related_publications: false
 
 This post shows how to write a clean blog post without bibliography or citation markup. Keep the focus on your ideas and content rather than references.
 
-{% quote einstein1905electrodynamics %}
-Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-sed do eiusmod tempor.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing.
-{% endquote %}
-
 If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
