@@ -25,6 +25,6 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-12+ years of IT experience in the automation space. Stack: Uipath, Power Platform, Autonmation Anywher, VB .Net and Python.
+12+ years of IT experience in the automation space. Stack: Uipath, Power Platform, Automation Anywhere, VB .Net and Python.
 
-I love to play with bots 🤖 and fix things 🛠️!!
+I love to play with bots 🤖 and fix things 🛠️!
