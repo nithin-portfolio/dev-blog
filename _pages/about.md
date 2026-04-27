@@ -22,8 +22,9 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 10 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 12+ years of IT experience in the automation space. Stack: Uipath, Power Platform, Autonmation Anywher, VB .Net and Python.
+
 I love to play with bots 🤖 and fix things 🛠️!
