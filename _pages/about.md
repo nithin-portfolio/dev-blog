@@ -27,4 +27,4 @@ latest_posts:
 
 12+ years of IT experience in the automation space. Stack: Uipath, Power Platform, Autonmation Anywher, VB .Net and Python.
 
-I love to play with bots 🤖 and fix things 🛠️!
+I love to play with bots 🤖 and fix things 🛠️!!
