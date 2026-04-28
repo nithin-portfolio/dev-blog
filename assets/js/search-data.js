@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
@@ -65,17 +54,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/tabs/";
-          
-        },
-      },{id: "post-a-post-with-typograms",
-        
-          title: "a post with typograms",
-        
-        description: "this is what included typograms code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -186,17 +164,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
