@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Nithin
 permalink: /
 subtitle: Senior Developer 👨🏼‍💻 | Gamer 🎮 | Traveller ✈️ | Weeb 🏯
 
