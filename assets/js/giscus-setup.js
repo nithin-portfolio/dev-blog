@@ -19,7 +19,7 @@ function determineGiscusTheme() {
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
     "data-repo": "nithin-portfolio/dev-blog",
-    "data-repo-id": "",
+    "data-repo-id": "R_kgDOSNTz1A",
     "data-category": "Comments",
     "data-category-id": "",
     "data-mapping": "title",
