@@ -6,7 +6,7 @@ description: my first dev blog!
 tags: developer
 categories: thoughts
 giscus_comments: true
-related_posts: false
+related_posts: true
 ---
 
 ## Who am I?
